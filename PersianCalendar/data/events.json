@@ -4,6 +4,7 @@
     "Iran": "https://calendar.ut.ac.ir/Fa/News/Data/Doc/Calendar%201401-Full.pdf",
     "AncientIran": "~https://raw.githubusercontent.com/ilius/starcal/master/plugins/iran-ancient-data.txt",
     "International": "~http://www.un.org/en/sections/observances/international-days/"
+    "Türkiye": "~https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_resm%C3%AE_tatiller"
   },
 
   "#meta": [
@@ -1300,5 +1301,21 @@
       "title": "شهادت امام رضا (ع) (۲۰۳ ه‍.ق) (۳۰ صَفَر یا انتهای ماه)", "holiday": true },
     { "calendar": "Hijri", "rule": "end of month", "month": 11, "type": "Iran",
       "title": "شهادت امام محمد تقی (ع) (۲۲۰ ه‍.ق) (۳۰ ذی‌القعده یا انتهای ماه)", "holiday": false }
+      
+  "Türkiye Tatilleri": [
+    { "holiday": true, "month": 1, "day": 1, "type": "Türkiye",
+      "title": "Yılbaşı" },
+    { "holiday": true, "month": 4, "day": 23, "type": "Türkiye",
+      "title": "Ulusal Egemenlik ve Çocuk Bayramı" },
+    { "holiday": true, "month": 5, "day": 1, "type": "Türkiye",
+      "title": "Emek ve Dayanışma Günü" },
+    { "holiday": true, "month": 5, "day": 19, "type": "Türkiye",
+      "title": "Atatürk'ü Anma, Gençlik ve Spor Bayramı" },
+    { "holiday": true, "month": 7, "day": 15, "type": "Türkiye",
+      "title": "Demokrasi ve Millî Birlik Günü" },
+    { "holiday": true, "month": 8, "day": 30, "type": "Türkiye",
+      "title": "Zafer Bayramı" },
+    { "holiday": true, "month": 10, "day": 29, "type": "Türkiye",
+      "title": "Cumhuriyet Bayramı" },
   ]
 }
